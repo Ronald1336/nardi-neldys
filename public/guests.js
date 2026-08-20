@@ -3,5 +3,6 @@ window.GUESTS = {
     "P5HQ": "Ronald Garum",
     "J9UE": "Pak Budi Ganteng",
     "75R9": "Naldy dan Pasangan",
-    "22D6": "Kris dan Pasangan"
+    "22D6": "Kris dan Pasangan",
+    "OG87": "Naldi Gay"
 };
