@@ -2,5 +2,6 @@ window.GUESTS = {
     "A001": "Tamu Kehormatan",
     "P5HQ": "Ronald Garum",
     "J9UE": "Pak Budi Ganteng",
-    "75R9": "Naldy dan Pasangan"
+    "75R9": "Naldy dan Pasangan",
+    "22D6": "Kris dan Pasangan"
 };
